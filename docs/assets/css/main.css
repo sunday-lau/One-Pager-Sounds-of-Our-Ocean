@@ -524,7 +524,7 @@ p {
   z-index: 1;
   padding: 160px 0 50px;
   background-image: url("../img/hero-bg.png");
-  background-position: bottom center;
+  background-position: top center;
   background-repeat: no-repeat;
 }
 
@@ -547,7 +547,6 @@ p {
 .hero-section .hero-content h1 {
   font-size: 60px;
   margin-bottom: 35px;
-  color: #fff;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -578,7 +577,6 @@ p {
   margin-bottom: 40px;
   font-size: 18px;
   line-height: 28px;
-  color: #fff;
 }
 
 @media only screen and (min-width: 1400px) {
@@ -594,8 +592,8 @@ p {
 }
 
 .hero-section .hero-content .main-btn {
-  border-color: #fff;
-  color: #fff;
+  border-color: #000000;
+  color: #000000;
 }
 
 .hero-section .hero-content .main-btn::after {
