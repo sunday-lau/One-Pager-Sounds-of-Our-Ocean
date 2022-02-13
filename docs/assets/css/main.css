@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font-family: Arimo;
+  font-family: Verdana;
   font-weight: normal;
   font-style: normal;
   color: #5B657E;
@@ -419,8 +419,8 @@ p {
 
 .navbar-toggler .toggler-icon {
   width: 30px;
-  height: 2px;
-  background-color: #fff;
+  height: 4px;
+  background-color: #000000;
   display: block;
   margin: 5px 0;
   position: relative;
@@ -477,7 +477,7 @@ p {
 .navbar-nav .nav-item a {
   font-size: 18px;
   font-weight: 400;
-  color: #fff;
+  color: #000000;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   padding: 10px 0;
