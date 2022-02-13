@@ -306,7 +306,7 @@ p {
 
 .scroll-top:hover {
   color: #fff;
-  background: rgba(88, 100, 255, 0.8);
+  background: rgba(11, 197, 45, 0.8);
 }
 
 @keyframes animation1 {
@@ -688,7 +688,7 @@ p {
   width: 130px;
   height: 130px;
   border-radius: 50%;
-  background: rgba(88, 100, 255, 0.1);
+  background: rgba(11, 197, 45, 0.1);
   color: #5864FF;
   margin: auto;
   margin-bottom: 30px;
@@ -778,7 +778,7 @@ p {
 }
 
 .box-style .content a.main-btn.border-btn:hover::after {
-  background: rgba(88, 100, 255, 0.2);
+  background: rgba(11, 197, 45, 0.2);
 }
 
 .box-style.color-1 {
@@ -971,14 +971,14 @@ p {
   position: absolute;
   left: 0;
   top: 6.5px;
-  -webkit-box-shadow: 0px 14px 15px rgba(78, 110, 241, 0.26);
-  box-shadow: 0px 14px 15px rgba(78, 110, 241, 0.26);
+  -webkit-box-shadow: 0px 14px 15px rgba(11, 197, 45, 0.26);
+  box-shadow: 0px 14px 15px rgba(11, 197, 45, 0.26);
 }
 
 /* ====== feature-extended css ====== */
 .feature-extended-section .feature-extended-wrapper {
   padding: 70px 0;
-  background: rgba(88, 100, 255, 0.1);
+  background: rgba(11, 197, 45, 0.1);
 }
 
 .feature-extended-section .single-feature-extended {
@@ -1046,7 +1046,7 @@ p {
   font-weight: 700;
   color: #5B657E;
   padding: 10px 30px;
-  background: rgba(88, 100, 255, 0.1);
+  background: rgba(11, 197, 45, 0.1);
   margin: 5px;
   border-radius: 30px;
 }
@@ -1101,7 +1101,7 @@ p {
 
 .pricing-section .single-pricing .content ul li i {
   margin-right: 15px;
-  color: rgba(22, 36, 71, 0.3);
+  color: rgba(11, 197, 45, 0.3);
   font-weight: 700;
 }
 
@@ -1123,7 +1123,7 @@ p {
 }
 
 .pricing-section .single-pricing .pricing-btn .main-btn.border-btn::after {
-  background: rgba(88, 100, 255, 0.1);
+  background: rgba(11, 197, 45, 0.1);
 }
 
 /* ======= subscribe css ======= */
